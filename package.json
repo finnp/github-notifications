@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/finnp/github-notifications/issues"
   },
-  "homepage": "https://github.com/finnp/github-notifications"
+  "homepage": "https://github.com/finnp/github-notifications",
+  "dependencies": {
+    "request": "^2.51.0"
+  }
 }
